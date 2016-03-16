@@ -1,0 +1,6 @@
+{
+  "require": {
+    "swiftmailer/swiftmailer": "dev-master",
+    "psr/log": "^1.0"
+  }
+}
